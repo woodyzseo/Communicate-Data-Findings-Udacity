@@ -12,7 +12,7 @@ The coding environment is Python, including the following:
 <li>Seaborn</li>
 <li>Matplotlib</li>
 <br>
-**The project requires the following files to run:**
+The project requires the following files to run:
 <br>
 <li>**Dateset**(zip):Contains 2019 and 2020 data in separate files.</li>
 <li>**exploratory.ipynb**:  The raw python code with graphs you run with Jupyter Notebook. Also includes a HTML version.</li>
