@@ -2,15 +2,12 @@
 ## Introduction
 With interstate travel restrictions and declined travel within the United States, it is interesting to discover the trends of the airline industry. Do we get fewer flights this year? Are there fewer delays this year? Which State or Airline Company takes the greatest impact from the travel restriction? In this project, I will process US flight data and find out the answers for you!
 ## About this project and Udacity Data Analysis Nanodegree Program
-This project aims to aid the understanding of data wrangling. In this project, I will be run through the "Gather-Access-Clean-Analyze" process to get useful insights from raw data.<br>
-The data used in this project is called [WeRateDogs](https://en.wikipedia.org/wiki/WeRateDogs). WeRateDogs is a Twitter account that rates people's dogs with a humorous comment about the dog. It has over 4 million followers and has received international media coverage.
+This project aims to aid the learning process of communicating data findings. In this project, I will be using Data Wrangling, Univariate Exploration, Bivarite Exploration and Multivariate Exploration to create visualization from raw data.<br>
+The data used in this project is called [On-Time : Reporting Carrier On-Time Performance (1987-present)](https://www.transtats.bts.gov/Fields.asp). This datatable contains basic information of flights(Time, Origin, Destination, Delay, Cancel information) from 1987 to 2020 April. The data picked for this project are two seperate sessions: 2019.04 and 2020.04. The indentical period the different years are selected to compare the difference in flight numbers, delays, cancellation, etc.
 ## How to run this project
 The coding environment is Python, including the following:
 <li>Numpy</li>
 <li>Pandas</li>
-<li>requests(download data)</li>
-<li>tweepy(API)</li>
-<li>json(API)</li>
 <li>Seaborn</li>
 <li>Matplotlib</li>
 
