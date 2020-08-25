@@ -18,8 +18,8 @@ The project requires the following files to run<br>
 **exploration_template.slides.html**: A HTML format slide. You can use your arrow key to read through it(recommend you zoom to 50% to read it). Also includes a ipynb version.<br>
 
 ## Visuals and Findings
-**_Hypothesis: I expect the flights in 2020.4 are less likely to be delayed, more but likely to be cancelled comparing to 2019.4 due to travel restriction. I expect the cause of delay will be quite different._**<br>
-**Actual Finding: The number proved my prediction for the flight delay and cancellation. However, the cause of delay seems similar to last year. Moreover, the pattern of delay time is a bit different in terms of distibution and scale.**
+**Hypothesis:** I expect the flights in 2020.4 are less likely to be delayed, more but likely to be cancelled comparing to 2019.4 due to travel restriction. I expect the cause of delay will be quite different.<br>
+**Actual Finding:** The number proved my prediction for the flight delay and cancellation. However, the cause of delay seems similar to last year. Moreover, the pattern of delay time is a bit different in terms of distibution and scale.
 
 Other two visuals are **i. 2019 vs 2020 comparsion & ii. delay factors and distribution**
 
