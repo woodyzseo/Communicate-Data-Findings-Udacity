@@ -12,11 +12,11 @@ The coding environment is Python, including the following:
 <li>Seaborn</li>
 <li>Matplotlib</li>
 <br>
-The project requires the following files to run:
+### The project requires the following files to run:
 <br>
-<li>**Dateset**(zip):Contains 2019 and 2020 data in separate files.</li>
-<li>**exploratory.ipynb**:  The raw python code with graphs you run with Jupyter Notebook. Also includes a HTML version.</li>
-<li>**exploration_template.slides.html**: A HTML format slide. You can use your arrow key to read through it(recommend you zoom to 50% to read it). Also includes a ipynb version.</li>
+<li>Dateset(zip):Contains 2019 and 2020 data in separate files.</li>
+<li>exploratory.ipynb:  The raw python code with graphs you run with Jupyter Notebook. Also includes a HTML version.</li>
+<li>exploration_template.slides.html: A HTML format slide. You can use your arrow key to read through it(recommend you zoom to 50% to read it). Also includes a ipynb version.</li>
 
 ## Visuals and Findings
 **Hypothesis:** I expect the flights in 2020.4 are less likely to be delayed, more but likely to be cancelled comparing to 2019.4 due to travel restriction. I expect the cause of delay will be quite different.<br>
