@@ -23,9 +23,10 @@ The project requires the following files to run:
 **Hypothesis:** I expect the flights in 2020.4 are less likely to be delayed, more but likely to be cancelled comparing to 2019.4 due to travel restriction. I expect the cause of delay will be quite different.<br>
 **Actual Finding:** The number proved my prediction for the flight delay and cancellation. However, the cause of delay seems similar to last year. Moreover, the pattern of delay time is a bit different in terms of distibution and scale.
 
-Other two visuals are **i. 2019 vs 2020 comparsion & ii. delay factors and distribution**
+Other two visuals are **i. 2019 vs 2020 comparsion & ii. delay/cancel factors and distribution**
 
 ### References:
 Add percentage on seaborn:https://stackoverflow.com/questions/31749448/how-to-add-percentages-on-top-of-bars-in-seaborn<br>
 Round percentage in chart:https://stackoverflow.com/questions/43675014/panda-python-dividing-a-column-by-100-then-rounding-by-2-dp<br>
-Set Xticks in Facet Grid:https://stackoverflow.com/questions/43727278/how-to-set-readable-xticks-in-seaborns-facetgrid
+Set Xticks in Facet Grid:https://stackoverflow.com/questions/43727278/how-to-set-readable-xticks-in-seaborns-facetgrid<br>
+List of Region of United States: https://en.wikipedia.org/wiki/List_of_regions_of_the_United_States#Census_Bureau-designated_regions_and_divisions
